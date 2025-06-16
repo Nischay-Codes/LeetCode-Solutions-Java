@@ -5,7 +5,7 @@ I'm solving DSA consistently and using this repo to organize my logic cleanly an
 
 ---
 
-## 🧠 Problems Solved So Far
+##  Problems Solved So Far
 
 ### Easy
 
@@ -19,12 +19,12 @@ I'm solving DSA consistently and using this repo to organize my logic cleanly an
 
 ---
 
-## 🔧 Tools I Use
+##  Tools I Use
 - Java (IntelliJ IDEA)
 - GitHub
 - LeetCode (Daily Practice)
 
-## 🔭 Goals
+##  Goals
 - Solve 100+ LeetCode problems
 - Write clean, optimized code
 - Grow DSA + backend skills consistently
