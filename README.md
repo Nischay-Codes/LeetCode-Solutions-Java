@@ -11,10 +11,11 @@ I'm solving DSA consistently and using this repo to organize my logic cleanly an
 
 | # | Title                                | Java File                                    |
 |---|--------------------------------------|----------------------------------------------|
-| 1 | Running Sum of 1D Array              | [P1480_RunningSum1D.java](./Easy/P1480_RunningSum1D.java) |
-| 2 | Richest Customer Wealth              | [P1672_MaxWealth2D.java](./Easy/P1672_MaxWealth2D.java) |
-| 3 | FizzBuzz                             | [P412_FizzBuzz.java](./Easy/P412_FizzBuzz.java) |
-| 4 | Number of Steps to Reduce to Zero    | [P1342_ReduceToZero.java](./Easy/P1342_ReduceToZero.java) |
+| 1 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)   | [P1480_RunningSum1D.java](Easy/P1480_RunningSum1D.java) |
+| 2 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)   | [P1672_MaxWealth2D.java](Easy/P1672_MaxWealth2D.java) |
+| 3 | [FizzBuzz](https://leetcode.com/problems/fizz-buzz/)                                | [P412_FizzBuzz.java](Easy/P412_FizzBuzz.java) |
+| 4 | [Reduce Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [P1342_ReduceToZero.java](Easy/P1342_ReduceToZero.java) |
+
 
 ---
 
