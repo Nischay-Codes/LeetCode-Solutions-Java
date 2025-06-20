@@ -7,25 +7,29 @@ I'm solving DSA consistently and using this repo to organize my logic cleanly an
 
 ## Problems Solved So Far
 
-### Easy
+###  Easy
 
 | # | Title                                | Java File                                    |
 |---|--------------------------------------|----------------------------------------------|
-| 1 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)   | [P1480_RunningSum1D.java](Easy/P1480_RunningSum1D.java) |
-| 2 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)   | [P1672_MaxWealth2D.java](Easy/P1672_MaxWealth2D.java) |
-| 3 | [FizzBuzz](https://leetcode.com/problems/fizz-buzz/)                                | [P412_FizzBuzz.java](Easy/P412_FizzBuzz.java) |
-| 4 | [Reduce Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [P1342_ReduceToZero.java](Easy/P1342_ReduceToZero.java) |
-| 5 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                       | [P242_ValidAnagram.java](Easy/P242_ValidAnagram.java) |
-| 6 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                           | [P383_RansomNote.java](Easy/P383_RansomNote.java) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/)                                  | [P1_TwoSum.java](Easy/P1_TwoSum.java) |
+| 2 | [Missing Number](https://leetcode.com/problems/missing-number/)                   | [P268_MissingNumber.java](Easy/P268_MissingNumber.java) |
+| 3 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [P1480_RunningSum1D.java](Easy/P1480_RunningSum1D.java) |
+| 4 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [P1672_MaxWealth2D.java](Easy/P1672_MaxWealth2D.java) |
+| 5 | [FizzBuzz](https://leetcode.com/problems/fizz-buzz/)                              | [P412_FizzBuzz.java](Easy/P412_FizzBuzz.java) |
+| 6 | [Reduce Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [P1342_ReduceToZero.java](Easy/P1342_ReduceToZero.java) |
+| 7 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                     | [P242_ValidAnagram.java](Easy/P242_ValidAnagram.java) |
+| 8 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                         | [P383_RansomNote.java](Easy/P383_RansomNote.java) |
 
 ---
 
-### Medium
+###  Medium
 
 | # | Title                                | Java File                                     |
 |---|--------------------------------------|-----------------------------------------------|
-| 1 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                    | [P49_GroupAnagrams.java](Medium/P49_GroupAnagrams.java) |
-| 2 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  | [P347_TopKFrequent.java](Medium/P347_TopKFrequent.java) |
+| 1 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                  | [P49_GroupAnagrams.java](Medium/P49_GroupAnagrams.java) |
+| 2 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [P347_TopKFrequent.java](Medium/P347_TopKFrequent.java) |
+| 3 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [P438_FindAllAnagrams.java](Medium/P438_FindAllAnagrams.java) |
+
 
 
 
