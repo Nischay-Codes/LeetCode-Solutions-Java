@@ -29,6 +29,8 @@ I'm solving DSA consistently and using this repo to organize my logic cleanly an
 | 1 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                  | [P49_GroupAnagrams.java](Medium/P49_GroupAnagrams.java) |
 | 2 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [P347_TopKFrequent.java](Medium/P347_TopKFrequent.java) |
 | 3 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [P438_FindAllAnagrams.java](Medium/P438_FindAllAnagrams.java) |
+| 4 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [P3_LongestSubStringWithoutRepeat.java](Medium/P3_LongestSubStringWithoutRepeat.java) |
+| 5 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [P80_RemoveDuplicateII.java](Medium/P80_RemoveDuplicateII.java) |
 
 
 
