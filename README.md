@@ -33,14 +33,15 @@ I'm solving DSA consistently and using this repo to organize my logic cleanly an
 
 ### Brute-Force Practice (Easy)
 
-These are my initial brute-force solutions to strengthen my core problem-solving logic. Each file contains clear, structured brute-force attempts.
+Note: This is where I focus on pure logic building first — not optimization.
 
-| Title               | Java File                                |
-|---------------------|-------------------------------------------|
-| Two Sum             | BrutForce/Easy/P1_TwoSum.java             |
-| Contains Duplicate  | BrutForce/Easy/P217_ContainsDuplicate.java|
-| Single Number       | BrutForce/Easy/P136_SingleNumber.java     |
-| Find the Difference | BrutForce/Easy/P389_FindTheDifference.java|
+| Title               | Java File |
+|---------------------|-----------|
+| Two Sum             | [P1_TwoSum.java](BrutForce/Easy/P1_TwoSum.java) |
+| Contains Duplicate  | [P217_ContainsDuplicate.java](BrutForce/Easy/P217_ContainsDuplicate.java) |
+| Single Number       | [P136_SingleNumber.java](BrutForce/Easy/P136_SingleNumber.java) |
+| Find the Difference | [P389_FindTheDifference.java](BrutForce/Easy/P389_FindTheDifference.java) |
+
 
 ---
 
