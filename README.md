@@ -20,7 +20,6 @@ I'm solving DSA consistently and using this repo to organize my logic cleanly an
 | 7 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                     | [P242_ValidAnagram.java](Easy/P242_ValidAnagram.java) |
 | 8 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                         | [P383_RansomNote.java](Easy/P383_RansomNote.java) |
 
----
 
 ###  Medium
 
@@ -32,9 +31,16 @@ I'm solving DSA consistently and using this repo to organize my logic cleanly an
 | 4 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [P3_LongestSubStringWithoutRepeat.java](Medium/P3_LongestSubStringWithoutRepeat.java) |
 | 5 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [P80_RemoveDuplicateII.java](Medium/P80_RemoveDuplicateII.java) |
 
+### Brute-Force Practice (Easy)
 
+These are my initial brute-force solutions to strengthen my core problem-solving logic. Each file contains clear, structured brute-force attempts.
 
-
+| Title               | Java File                                |
+|---------------------|-------------------------------------------|
+| Two Sum             | BrutForce/Easy/P1_TwoSum.java             |
+| Contains Duplicate  | BrutForce/Easy/P217_ContainsDuplicate.java|
+| Single Number       | BrutForce/Easy/P136_SingleNumber.java     |
+| Find the Difference | BrutForce/Easy/P389_FindTheDifference.java|
 
 ---
 
