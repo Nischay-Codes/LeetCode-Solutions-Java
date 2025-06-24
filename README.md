@@ -37,12 +37,13 @@ I'm solving DSA consistently and using this repo to organize my logic cleanly an
 
 | Title               | Java File |
 |---------------------|-----------|
-| Two Sum             | [P1_TwoSum.java](BrutForce/Easy/P1_TwoSum.java) |
-| Contains Duplicate  | [P217_ContainsDuplicate.java](BrutForce/Easy/P217_ContainsDuplicate.java) |
-| Single Number       | [P136_SingleNumber.java](BrutForce/Easy/P136_SingleNumber.java) |
-| Find the Difference | [P389_FindTheDifference.java](BrutForce/Easy/P389_FindTheDifference.java) |
-| Maximum Profit      | [P121_MaxiumProfit.java](BrutForce/Easy/P121_MaxiumProfit.java) |
-| Search Insert Pos.  | [P35_SearchInsertPosition.java](BrutForce/Easy/P35_SearchInsertPosition.java) |
+| Two Sum             | [P1_TwoSum.java](BurtForce/Easy/P1_TwoSum.java) |
+| Contains Duplicate  | [P217_ContainsDuplicate.java](BurtForce/Easy/P217_ContainsDuplicate.java) |
+| Single Number       | [P136_SingleNumber.java](BurtForce/Easy/P136_SingleNumber.java) |
+| Find the Difference | [P389_FindTheDifference.java](BurtForce/Easy/P389_FindTheDifference.java) |
+| Maximum Profit      | [P121_MaxiumProfit.java](BurtForce/Easy/P121_MaxiumProfit.java) |
+| Search Insert Pos.  | [P35_SearchInsertPosition.java](BurtForce/Easy/P35_SearchInsertPosition.java) |
+
 
 
 ----
