@@ -33,7 +33,7 @@ I'm solving DSA consistently and using this repo to organize my logic cleanly an
 
 ### Brute-Force Practice (Easy)
 
-Note: This is where I focus on pure logic building first — not optimization.
+> Note: This is where I focus on pure logic building first — not optimization.
 
 | Title               | Java File |
 |---------------------|-----------|
@@ -41,9 +41,11 @@ Note: This is where I focus on pure logic building first — not optimization.
 | Contains Duplicate  | [P217_ContainsDuplicate.java](BrutForce/Easy/P217_ContainsDuplicate.java) |
 | Single Number       | [P136_SingleNumber.java](BrutForce/Easy/P136_SingleNumber.java) |
 | Find the Difference | [P389_FindTheDifference.java](BrutForce/Easy/P389_FindTheDifference.java) |
+| Maximum Profit      | [P121_MaxiumProfit.java](BrutForce/Easy/P121_MaxiumProfit.java) |
+| Search Insert Pos.  | [P35_SearchInsertPosition.java](BrutForce/Easy/P35_SearchInsertPosition.java) |
 
 
----
+----
 
 ##  Tools I Use
 - Java (IntelliJ IDEA)
