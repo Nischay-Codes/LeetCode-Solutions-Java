@@ -35,14 +35,24 @@ I'm solving DSA consistently and using this repo to organize my logic cleanly an
 
 > Note: This is where I focus on pure logic building first — not optimization.
 
-| Title               | Java File |
-|---------------------|-----------|
-| Two Sum             | [P1_TwoSum.java](BurtForce/Easy/P1_TwoSum.java) |
-| Contains Duplicate  | [P217_ContainsDuplicate.java](BurtForce/Easy/P217_ContainsDuplicate.java) |
-| Single Number       | [P136_SingleNumber.java](BurtForce/Easy/P136_SingleNumber.java) |
-| Find the Difference | [P389_FindTheDifference.java](BurtForce/Easy/P389_FindTheDifference.java) |
-| Maximum Profit      | [P121_MaxiumProfit.java](BurtForce/Easy/P121_MaxiumProfit.java) |
-| Search Insert Pos.  | [P35_SearchInsertPosition.java](BurtForce/Easy/P35_SearchInsertPosition.java) |
+| Title                               | Java File                                                                                                    |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Two Sum                             | [P1\_TwoSum.java](BurtForce/Easy/P1_TwoSum.java)                                                             |
+| Contains Duplicate                  | [P217\_ContainsDuplicate.java](BurtForce/Easy/P217_ContainsDuplicate.java)                                   |
+| Single Number                       | [P136\_SingleNumber.java](BurtForce/Easy/P136_SingleNumber.java)                                             |
+| Find the Difference                 | [P389\_FindTheDifference.java](BurtForce/Easy/P389_FindTheDifference.java)                                   |
+| Maximum Profit                      | [P121\_MaxiumProfit.java](BurtForce/Easy/P121_MaxiumProfit.java)                                             |
+| Search Insert Pos.                  | [P35\_SearchInsertPosition.java](BurtForce/Easy/P35_SearchInsertPosition.java)                               |
+| Pascal's Triangle                   | [P118\_PascalsTriangle.java](BurtForce/Easy/P118_PascalsTriangle.java)                                       |
+| Numbers Smaller Than Current Number | [P1365\_NumbersSmallerThanCurrentNumber.java](BurtForce/Easy/P1365_NumbersSmallerThanCurrentNumber.java)     |
+| Create Target Array                 | [P1389\_CreateTargetArray.java](BurtForce/Easy/P1389_CreateTargetArray.java)                                 |
+| Highest Candies                     | [P1431\_HighestCandies.java](BurtForce/Easy/P1431_HighestCandies.java)                                       |
+| Destination City                    | [P1436\_DestinationCity.java](BurtForce/Easy/P1436_DestinationCity.java)                                     |
+| Check If All 1s at Least K Places   | [P1437\_CheckIfAll1LeastLengthKPlacesAway.java](BurtForce/Easy/P1437_CheckIfAll1LeastLengthKPlacesAway.java) |
+| Shuffle the Array                   | [P1470\_ShuffletheArray.java](BurtForce/Easy/P1470_ShuffletheArray.java)                                     |
+| Running Sum of 1D Array             | [P1480\_RunningSum1DArray.java](BurtForce/Easy/P1480_RunningSum1DArray.java)                                 |
+| Majority Element                    | [P169\_majorityElement.java](BurtForce/Easy/P169_majorityElement.java)                                       |
+
 
 
 
