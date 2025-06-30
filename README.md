@@ -52,8 +52,8 @@ I'm solving DSA consistently and using this repo to organize my logic cleanly an
 | Shuffle the Array                   | [P1470\_ShuffletheArray.java](BurtForce/Easy/P1470_ShuffletheArray.java)                                     |
 | Running Sum of 1D Array             | [P1480\_RunningSum1DArray.java](BurtForce/Easy/P1480_RunningSum1DArray.java)                                 |
 | Majority Element                    | [P169\_majorityElement.java](BurtForce/Easy/P169_majorityElement.java)                                       |
-
-
+| **Max Product of Three Numbers**    | [P628\_MaxProductOfThree.java](BurtForce/Easy/P628_MaxProductOfThree.java)                                   |
+| **Merge Two Strings Alternately**   | [P1768\_MergeAltStrings.java](BurtForce/Easy/P1768_MergeAltStrings.java)                                     |
 
 
 ----
