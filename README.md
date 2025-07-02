@@ -38,22 +38,25 @@ I'm solving DSA consistently and using this repo to organize my logic cleanly an
 | Title                               | Java File                                                                                                    |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Two Sum                             | [P1\_TwoSum.java](BurtForce/Easy/P1_TwoSum.java)                                                             |
-| Contains Duplicate                  | [P217\_ContainsDuplicate.java](BurtForce/Easy/P217_ContainsDuplicate.java)                                   |
-| Single Number                       | [P136\_SingleNumber.java](BurtForce/Easy/P136_SingleNumber.java)                                             |
+| Search Insert Position              | [P35\_SearchInsertPosition.java](BurtForce/Easy/P35_SearchInsertPosition.java)                               |
 | Find the Difference                 | [P389\_FindTheDifference.java](BurtForce/Easy/P389_FindTheDifference.java)                                   |
 | Maximum Profit                      | [P121\_MaxiumProfit.java](BurtForce/Easy/P121_MaxiumProfit.java)                                             |
-| Search Insert Pos.                  | [P35\_SearchInsertPosition.java](BurtForce/Easy/P35_SearchInsertPosition.java)                               |
-| Pascal's Triangle                   | [P118\_PascalsTriangle.java](BurtForce/Easy/P118_PascalsTriangle.java)                                       |
+| Contains Duplicate                  | [P217\_ContainsDuplicate.java](BurtForce/Easy/P217_ContainsDuplicate.java)                                   |
+| Single Number                       | [P136\_SingleNumber.java](BurtForce/Easy/P136_SingleNumber.java)                                             |
+| Pascal’s Triangle                   | [P118\_PascalsTriangle.java](BurtForce/Easy/P118_PascalsTriangle.java)                                       |
+| Maximum Number of Balloons          | [P1189\_MaximumNumberBalloons.java](BurtForce/Easy/P1189_MaximumNumberBalloons.java)                         |
+| Find Numbers with Even Digits       | [P1295\_FindNumbersWithEvenNumberDigits.java](BurtForce/Easy/P1295_FindNumbersWithEvenNumberDigits.java)     |
 | Numbers Smaller Than Current Number | [P1365\_NumbersSmallerThanCurrentNumber.java](BurtForce/Easy/P1365_NumbersSmallerThanCurrentNumber.java)     |
 | Create Target Array                 | [P1389\_CreateTargetArray.java](BurtForce/Easy/P1389_CreateTargetArray.java)                                 |
 | Highest Candies                     | [P1431\_HighestCandies.java](BurtForce/Easy/P1431_HighestCandies.java)                                       |
 | Destination City                    | [P1436\_DestinationCity.java](BurtForce/Easy/P1436_DestinationCity.java)                                     |
-| Check If All 1s at Least K Places   | [P1437\_CheckIfAll1LeastLengthKPlacesAway.java](BurtForce/Easy/P1437_CheckIfAll1LeastLengthKPlacesAway.java) |
+| Check if All 1s at K Distance       | [P1437\_CheckIfAll1LeastLengthKPlacesAway.java](BurtForce/Easy/P1437_CheckIfAll1LeastLengthKPlacesAway.java) |
+| Students Doing Homework             | [P1450\_NumberOfStudentsDoingHomework.java](BurtForce/Easy/P1450_NumberOfStudentsDoingHomework.java)         |
 | Shuffle the Array                   | [P1470\_ShuffletheArray.java](BurtForce/Easy/P1470_ShuffletheArray.java)                                     |
 | Running Sum of 1D Array             | [P1480\_RunningSum1DArray.java](BurtForce/Easy/P1480_RunningSum1DArray.java)                                 |
 | Majority Element                    | [P169\_majorityElement.java](BurtForce/Easy/P169_majorityElement.java)                                       |
-| **Max Product of Three Numbers**    | [P628\_MaxProductOfThree.java](BurtForce/Easy/P628_MaxProductOfThree.java)                                   |
-| **Merge Two Strings Alternately**   | [P1768\_MergeAltStrings.java](BurtForce/Easy/P1768_MergeAltStrings.java)                                     |
+| Max Product of Three Numbers        | [P628\_MaxProductOfThree.java](BurtForce/Easy/P628_MaxProductOfThree.java)                                   |
+| To Lower Case                       | [P709\_ToLowerCaseExample.java](BurtForce/Easy/P709_ToLowerCaseExample.java)                                 |
 
 
 ----
